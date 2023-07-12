@@ -673,7 +673,7 @@
           $('#play-video, .play-video').on('click', function (e) {
               e.preventDefault();
               $('.video-overlay').addClass('open');
-              $(".video-overlay").append('<iframe width="560" height="315" src="https://onedrive.live.com/embed?resid=EBECA0DD54973D0C%21119&authkey=!ALq-sf1ELzHAIzQ" title="video de presentación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>');
+              $(".video-overlay").append('<iframe width="560" height="315" src="https://solucionesbiotecnologicas.com.mx/359750837_651504006560869_6126029909634403994_n.mp4" title="video de presentación" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>');
           });
 
           $('.video-overlay, .video-overlay-close').on('click', function (e) {
